@@ -1,0 +1,47 @@
+* [33mcommit 32bf3bbb7186253aca8bccd7a27279f880502ae4[m[33m ([m[1;36mHEAD -> [m[1;32mTsarev[m[33m, [m[1;31morigin/Tsarev[m[33m)[m
+[31m|[m Author: Aleksey <sherbakovaleksey2005@mail.ru>
+[31m|[m Date:   Fri Apr 14 11:35:56 2023 +0700
+[31m|[m 
+[31m|[m     Содание скриншота локальной папки с репозиторием
+[31m|[m 
+* [33mcommit 2fb854bb2089aed4fc1469787876a88710c1188d[m
+[31m|[m Author: Aleksey <sherbakovaleksey2005@mail.ru>
+[31m|[m Date:   Fri Apr 14 11:35:16 2023 +0700
+[31m|[m 
+[31m|[m     Создание файла с предметами
+[31m|[m   
+[31m|[m * [33mcommit 51ca058ccc37cd3ed0f088a830181c6d224826d5[m[33m ([m[1;31morigin/Scherbakov[m[33m, [m[1;32mScherbakov[m[33m)[m
+[31m|[m [32m|[m Author: Aleksey <sherbakovaleksey2005@mail.ru>
+[31m|[m [32m|[m Date:   Fri Apr 14 09:56:01 2023 +0700
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Изменил файл предметы txt
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit e897ae5d4bc95b76c63ed9b85fa70b9bacbb9cce[m
+[31m|[m [32m|[m Author: Aleksey <sherbakovaleksey2005@mail.ru>
+[31m|[m [32m|[m Date:   Fri Apr 14 09:53:54 2023 +0700
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Создание png
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 9659a38bca07a188c6abc08db69f578551cf8855[m
+[31m|[m[31m/[m  Author: Aleksey <sherbakovaleksey2005@mail.ru>
+[31m|[m   Date:   Fri Apr 14 09:45:40 2023 +0700
+[31m|[m   
+[31m|[m       Создание txt с предметами
+[31m|[m   
+[31m|[m * [33mcommit 11b516aaa7366826c4a00baf0374faab682e416f[m[33m ([m[1;31morigin/Shvenk[m[33m, [m[1;32mShvenk[m[33m)[m
+[31m|[m [33m|[m Author: Stepan <shvenk.stepan@mail.ru>
+[31m|[m [33m|[m Date:   Fri Apr 14 09:24:40 2023 +0700
+[31m|[m [33m|[m 
+[31m|[m [33m|[m     Создание файла 3 с картинкой jpg
+[31m|[m [33m|[m 
+[31m|[m * [33mcommit d4e6acead131cd5e793608823f420186a57a9aa1[m
+[31m|[m[31m/[m  Author: Stepan <shvenk.stepan@mail.ru>
+[31m|[m   Date:   Fri Apr 14 09:23:33 2023 +0700
+[31m|[m   
+[31m|[m       Создание файла 2 с картинкой png
+[31m|[m 
+* [33mcommit bf21f680af3aeb8aafed8d5ae6d70ab6af5906fb[m
+  Author: Stepan <shvenk.stepan@mail.ru>
+  Date:   Fri Apr 14 09:22:01 2023 +0700
+  
+      Создание файла 1 с ФИО
